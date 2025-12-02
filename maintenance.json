@@ -1,0 +1,9 @@
+ {
+     "maintenance": true,
+     "title": "Maintenance Mode",
+     "message": "We're currently updating the app. Please check back soon!",
+     "contact": {
+       "discord": "@ja_theo",
+       "message": "Contact @ja_theo on Discord for updates and support"
+     }
+   }
