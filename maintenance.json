@@ -1,5 +1,5 @@
  {
-     "maintenance": true,
+     "maintenance": false,
      "title": "Maintenance Mode",
      "message": "We're currently updating the app. Please check back soon!",
      "contact": {
